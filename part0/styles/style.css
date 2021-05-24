@@ -1,0 +1,61 @@
+html {
+    font-size: 20px;
+    font-family: "Lato";
+    background-color: rgb(55, 62, 70);
+}
+
+h1 {
+    font-family:"Montserrat Subrayada";
+    text-align: center;
+    font-size: 60px;
+    margin:0;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li, h1, h2, h3, h4, h5, h6, th {
+    color: rgb(237, 237, 237);
+    font:Lato;
+    margin:10px;
+  }
+
+p:hover, li:hover, a:hover, h2:hover, h3:hover, code:hover { color: rgb(135, 135, 179); }
+a,a:visited {color:rgb(125,163,207);}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+code {
+    background: rgb(237, 237, 237);
+    border: 1px solid #ddd;
+    border-left: 3px solid #76AFF0;
+    color: #666;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 0.2;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1em;
+    display: block;
+    word-wrap: break-word;
+    font-weight:normal;
+}
+
+th:nth-child(2) {
+    padding: 0 10px;
+    text-align: left;
+    font-weight:normal;
+}
+
+.grid {
+    display:grid;
+    grid-template-columns:1fr 1fr ;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+

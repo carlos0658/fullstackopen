@@ -5,7 +5,7 @@
 
 ### Activities
 - [x] 0.0 - Preparing Repository
-- [ ] 0.1 - HTML
+- [x] 0.1 - HTML
 - [ ] 0.2 - CSS
 - [ ] 0.3 - HTML Forms
 - [ ] 0.4 - new note
