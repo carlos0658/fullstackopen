@@ -6,7 +6,7 @@
 ### Activities
 - [x] 0.0 - Preparing Repository
 - [x] 0.1 - HTML
-- [ ] 0.2 - CSS
+- [x] 0.2 - CSS
 - [ ] 0.3 - HTML Forms
 - [ ] 0.4 - new note
 - [ ] 0.5 - Single page app
