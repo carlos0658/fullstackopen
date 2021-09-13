@@ -1,0 +1,40 @@
+##https://www.websequencediagrams.com/
+##Exercise 0.5 and 0.6 - Carlos Massucci
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
+server-->browser: HTML-code (spa)
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
+server-->browser: main.css
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleap/spa.js
+server-->browser: spa.js
+
+note over browser:
+browser starts executing js-code
+that requests JSON data from server 
+end note
+
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
+server-->browser: [{content: "", date: "2021-09-12T22:22:59.898Z"}, ...]
+
+note over browser:
+browser executes the event handler
+that renders notes to display
+end note
+
+##Exercise 0.6
+
+note over browser:
+User type 'spa' in the text field
+User press 'Save'
+end note
+
+note over browser:
+browser executes the event handler that:
+(1) prepare note variable
+(2) Add the note to the note list on client
+(3) Redraw the list on screen
+(4) Sent Note to Server (sendToServer)
+end note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: {"message":"note created"}

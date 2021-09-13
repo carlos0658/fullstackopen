@@ -89,6 +89,28 @@
     <p>More at <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML
             basics</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">Learn to style HTML using
             CSS</a>.</p>
+
+    <form action="/my-handling-form-page" method="post">
+        <ul>
+            <li>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="user_name">
+            </li>
+            <li>
+            <label for="mail">E-mail:</label>
+            <input type="email" id="mail" name="user_email">
+            </li>
+            <li>
+            <label for="msg">Message:</label>
+            <textarea id="msg" name="user_message">Teste default</textarea>
+            </li>
+            <li class="button">
+                <button type="submit">Send your message</button>
+                <button type="reset">Reset</button>
+            </li>
+        </ul>
+    </form>
+
     <a href="massucci.net"><img src="logo.png" alt="Logo of Owner's wiki" width="200"></a>
 </body>
 
