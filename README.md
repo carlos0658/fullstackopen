@@ -19,7 +19,7 @@
 
 - [x] Part 1a - Introduction to React
 - [x] Part 1b - JavaScript
-- [ ] Part 1c - Component state, event handlers
+- [x] Part 1c - Component state, event handlers
 - [ ] Part 1d - A more complex state, debugging React apps
 
 ### Activities
