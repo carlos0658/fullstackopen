@@ -1,9 +1,12 @@
 # FullStackOpen
+
 ## Part 0
+
 - [x] Part 0a - Reading
 - [x] Part 0b - Activities
 
 ### Activities
+
 - [x] 0.0 - Preparing Repository
 - [x] 0.1 - HTML
 - [x] 0.2 - CSS
@@ -13,14 +16,16 @@
 - [x] 0.6 - New note
 
 ## Part 1
-- [ ] Part 1a - Introduction to React
+
+- [x] Part 1a - Introduction to React
 - [ ] Part 1b - JavaScript
 - [ ] Part 1c - Component state, event handlers
 - [ ] Part 1d - A more complex state, debugging React apps
 
 ### Activities
-- [ ] 1.1
-- [ ] 1.2
+
+- [x] 1.1 - courseinfo
+- [x] 1.2 - courseinfo
 - [ ] 1.3
 - [ ] 1.4
 - [ ] 1.5
