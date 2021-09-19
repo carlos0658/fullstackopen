@@ -18,7 +18,7 @@
 ## Part 1
 
 - [x] Part 1a - Introduction to React
-- [ ] Part 1b - JavaScript
+- [x] Part 1b - JavaScript
 - [ ] Part 1c - Component state, event handlers
 - [ ] Part 1d - A more complex state, debugging React apps
 
@@ -26,9 +26,9 @@
 
 - [x] 1.1 - courseinfo
 - [x] 1.2 - courseinfo
-- [ ] 1.3
-- [ ] 1.4
-- [ ] 1.5
+- [x] 1.3 - courseinfo
+- [x] 1.4 - courseinfo
+- [x] 1.5 - courseinfo
 - [ ] 1.6
 - [ ] 1.7
 - [ ] 1.8
