@@ -20,7 +20,7 @@
 - [x] Part 1a - Introduction to React
 - [x] Part 1b - JavaScript
 - [x] Part 1c - Component state, event handlers
-- [ ] Part 1d - A more complex state, debugging React apps
+- [x] Part 1d - A more complex state, debugging React apps
 
 ### Activities
 
@@ -29,12 +29,12 @@
 - [x] 1.3 - courseinfo
 - [x] 1.4 - courseinfo
 - [x] 1.5 - courseinfo
-- [ ] 1.6
-- [ ] 1.7
-- [ ] 1.8
-- [ ] 1.9
-- [ ] 1.10
-- [ ] 1.11
-- [ ] 1.12
+- [x] 1.6 - unicafe
+- [x] 1.7 - unicafe
+- [x] 1.8 - unicafe
+- [x] 1.9 - unicafe
+- [x] 1.10 - unicafe
+- [x] 1.11 - unicafe
+- [ ] 1.12 - anecdotes
 - [ ] 1.13
 - [ ] 1.14
