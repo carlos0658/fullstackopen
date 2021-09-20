@@ -35,6 +35,6 @@
 - [x] 1.9 - unicafe
 - [x] 1.10 - unicafe
 - [x] 1.11 - unicafe
-- [ ] 1.12 - anecdotes
-- [ ] 1.13
-- [ ] 1.14
+- [x] 1.12 - anecdotes
+- [x] 1.13 - anecdotes
+- [x] 1.14 - anecdotes
