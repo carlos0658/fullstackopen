@@ -3,7 +3,7 @@
 ## Part 2
 
 - [x] Part 2a - Rendering a collection, modules
-- [ ] Part 2b - Forms
+- [x] Part 2b - Forms
 - [ ] Part 2c - Getting data from server
 - [ ] Part 2d - Altering data in server
 - [ ] Part 2e - Adding styles to React app
@@ -15,8 +15,8 @@
 - [x] 2.3 - courseinfo
 - [x] 2.4 - courseinfo
 - [x] 2.5 - courseinfo
-- [ ] 2.6
-- [ ] 2.7
+- [x] 2.6 - phonebook
+- [x] 2.7 - phonebook
 - [ ] 2.8
 - [ ] 2.9
 - [ ] 2.10
@@ -30,7 +30,6 @@
 - [ ] 2.18
 - [ ] 2.19
 - [ ] 2.20
-
 
 ## Part 1
 
